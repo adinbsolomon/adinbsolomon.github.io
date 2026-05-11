@@ -2,7 +2,7 @@
 
 ### Developer Setup
 
-Clone this repo, then `cd` into it and run `npm install`. You should be able to see your changes as you make them when you serve using `npm start` from the repo's directory.
+Clone this repo, then `cd` into it and run `npm install --legacy-peer-deps`. You should be able to see your changes as you make them when you serve using `npm start` from the repo's directory.
 
 ### Adding your own content
 
