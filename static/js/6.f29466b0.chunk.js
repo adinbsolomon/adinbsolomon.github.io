@@ -1,2 +1,0 @@
-(this.webpackJsonpportfolio=this.webpackJsonpportfolio||[]).push([[6],{427:function(t,o,p){"use strict";p.r(o),o.default=p.p+"static/media/heavy-metal.3a1ed9db.png"}}]);
-//# sourceMappingURL=6.f29466b0.chunk.js.map

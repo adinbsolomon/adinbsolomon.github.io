@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkportfolio=self.webpackChunkportfolio||[]).push([[888],{888(e,o,p){e.exports=p.p+"static/media/digital-pathology.c603aefc8e73b8bd7200.png"}}]);
